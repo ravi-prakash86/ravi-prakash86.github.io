@@ -10,6 +10,6 @@ Live site: `https://ravi-prakash86.github.io/`
 
 ## Before publishing
 1. Add your CV as `assets/Ravi-Prakash-CV.pdf`.
-2. Add your professional photo and replace the profile placeholder in `index.html`.
+2. Professional photo is included at `assets/ravi-prakash-profile.png`.
 3. Add UGC/AI Avatar thumbnails or video links.
 4. Verify LinkedIn, Instagram, WhatsApp and email links.
